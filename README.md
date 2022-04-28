@@ -62,7 +62,7 @@ Para começar 🏁, você vai precisar do [Git](https://git-scm.com) e  [Node](h
 
 ```bash
 # Clone esse projeto
-$ https://github.com/vits56/desafio-warren
+$ git clone https://github.com/vits56/desafio-warren
 
 # Accesse
 $ cd desafio-warren
