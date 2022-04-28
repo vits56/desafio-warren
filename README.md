@@ -45,6 +45,15 @@ Explicação:
 
 Se N = 10 e V = [2, 3, 4] você pode utilizar as seguintes soma: [2, 2, 2, 2, 2], [2, 2, 3, 3], [2, 4, 4] ou [3, 3, 4]. Como a quantidade de elementos em [2, 4, 4] e [3, 3, 4] é igual, os dois conjuntos devem ser mostrados.
 
+## Tecnologias
+
+Neste projeto foram utilizadas as seguintes ferramentas::
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
+- [Node](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
+- [Vs code](https://code.visualstudio.com/)
+
 ## Requerimentos
 
 Para começar 🏁, você vai precisar do [Git](https://git-scm.com) e  [Node](https://nodejs.org/en/) instalados.
