@@ -79,4 +79,11 @@ $ node desafio3.js
 
 ```
 
+Made with 💜 by <a href="https://github.com/vits56" target="_blank">Bruno Bastos Duarte</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
+
+
 
