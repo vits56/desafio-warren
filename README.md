@@ -52,10 +52,10 @@ Para começar 🏁, você vai precisar do [Git](https://git-scm.com) e  [Node](h
 ## Iniciando
 
 ```bash
-# Clone this project
+# Clone esse projeto
 $ https://github.com/vits56/desafio-warren
 
-# Access
+# Accesse
 $ cd desafio-warren
 
 ```
