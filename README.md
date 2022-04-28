@@ -58,6 +58,16 @@ $ https://github.com/vits56/desafio-warren
 # Accesse
 $ cd desafio-warren
 
+# Para rodar o desafio 1 rode o comando no seu terminal
+$ node desafio1.js
+
+# Para rodar o desafio 2 rode o comando no seu terminal
+$ node desafio2.js
+
+# Para rodar o desafio 3 rode o comando no seu terminal
+$ node desafio3.js
+
+
 ```
 
 
